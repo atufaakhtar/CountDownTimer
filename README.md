@@ -16,11 +16,11 @@ This project is a simple countdown timer built using HTML, CSS, and JavaScript. 
 ## Getting Started
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/countdown-timer.git
+   git clone https://github.com/atufaakhtar/CountDownTimer.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd countdown-timer
+   cd CountDownTimer
    ```
 3. **Open index.html in Your Browser**:
   Simply open the index.html file in your preferred web browser to view and use the countdown timer.

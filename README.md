@@ -1,5 +1,4 @@
 # CountDownTimer
-# Countdown Timer
 
 This project is a simple countdown timer built using HTML, CSS, and JavaScript. It allows users to set a specific time duration and counts down to zero, providing a visual representation of the remaining time.
 
@@ -20,9 +19,9 @@ This project is a simple countdown timer built using HTML, CSS, and JavaScript. 
    git clone https://github.com/your-username/countdown-timer.git
    ```
 2. **Navigate to the Project Directory**:
-  ```bash
-  cd countdown-timer
-  ```
+   ```bash
+   cd countdown-timer
+   ```
 3. **Open index.html in Your Browser**:
   Simply open the index.html file in your preferred web browser to view and use the countdown timer.
 
